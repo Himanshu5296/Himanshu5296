@@ -1,6 +1,5 @@
-### Hi there 👋, I'm Himanshu Singh,
-#### Currently, I am pursuing FULL STACK WEB DEVELOPER at Masai School.
 [<img src="https://user-images.githubusercontent.com/99639007/169049031-edbc0500-f7bd-40e4-bd80-7595e934d583.png" alt="" height="500">]
+[<h3>### Hi there 👋, I'm Himanshu Singh,</h3>]
 
 
 - 🌱 I’m currently learning Full Stack Web Development
