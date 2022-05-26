@@ -1,9 +1,9 @@
 [<img src="https://user-images.githubusercontent.com/99639007/169049031-edbc0500-f7bd-40e4-bd80-7595e934d583.png" alt="" height="500">]
-[<h3>### Hi there 👋, I'm Himanshu Singh,</h3>]
+[<h3>### Hi 👋, I'm Himanshu Singh, currently learning Full Stack Web Development from Masai School</h3>]
 
 
-- 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on any Project which enhance my skills.
+- 😎 Portfolio - [<a href=""></a>]]
 
 
 Skills: HTML / CSS / JS / REACT / REDUX / TYPESCRIPT 
