@@ -8,10 +8,16 @@
 
 <h1>Skills</h1>
 
-  <img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height='20'/>
-  <h3>HTML</h3>
-  <img src="https://gayathry-portfolio.vercel.app/css.png" alt="" height="20"/>
-  <h3>CSS</h3>
+  <img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height='40'/>
+  <img src="https://gayathry-portfolio.vercel.app/css.png" alt="" height="40"/>
+  <img src="https://gayathry-portfolio.vercel.app/js.png" alt="" height="40"/>
+  <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="" height="40"/>
+  <img src="https://gayathry-portfolio.vercel.app/logo512.png" alt="" height="40"/>
+  <img src="https://gayathry-portfolio.vercel.app/redux.png" alt="" height="40"/>
+  <img src="https://gayathry-portfolio.vercel.app/ts.png" alt="" height="40"/>
+  <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="" height="40"/>
+  <img src="https://cdn.svgporn.com/logos/material-ui.svg" alt="" height="40"/>
+
 
 Skills: HTML / CSS / JS / REACT / REDUX / TYPESCRIPT 
  
