@@ -6,6 +6,19 @@
 - 😎 Portfolio - [<a href=""></a>]]
 
 
+<h1>Skills</h1>
+<div className='skillContainer'>
+ <div>
+  <img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height:"100px" margin-top:"10px"/>
+  <h3>HTML</h3>
+ </div>
+  <div>
+  <img src="https://gayathry-portfolio.vercel.app/css.png" alt="" height:"100px" margin-top:"10px"/>
+  <h3>CSS</h3>
+ </div>
+</div>
+
+
 Skills: HTML / CSS / JS / REACT / REDUX / TYPESCRIPT 
  
 
