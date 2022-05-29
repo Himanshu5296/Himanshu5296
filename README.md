@@ -8,9 +8,9 @@
 
 <h1>Skills</h1>
 
-  <img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height:'20'/>
+  <img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height='20'/>
   <h3>HTML</h3>
-  <img src="https://gayathry-portfolio.vercel.app/css.png" alt="" height:"20" margin-top:"10"/>
+  <img src="https://gayathry-portfolio.vercel.app/css.png" alt="" height="20"/>
   <h3>CSS</h3>
 
 Skills: HTML / CSS / JS / REACT / REDUX / TYPESCRIPT 
