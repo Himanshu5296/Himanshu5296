@@ -12,7 +12,7 @@
     justify-content: center;
     gap:20px;>
  <div>
-  <img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height:"20" margin-top:"10"/>
+  [<img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height:'20'/>]
   <h3>HTML</h3>
  </div>
   <div>
