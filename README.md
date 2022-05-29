@@ -7,20 +7,11 @@
 
 
 <h1>Skills</h1>
-<div  display: grid;
-    grid-template-columns: repeat(5,200px);
-    justify-content: center;
-    gap:20px;>
- <div>
+
   [<img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height:'20'/>]
   <h3>HTML</h3>
- </div>
-  <div>
   <img src="https://gayathry-portfolio.vercel.app/css.png" alt="" height:"20" margin-top:"10"/>
   <h3>CSS</h3>
- </div>
-</div>
-
 
 Skills: HTML / CSS / JS / REACT / REDUX / TYPESCRIPT 
  
