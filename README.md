@@ -7,7 +7,10 @@
 
 
 <h1>Skills</h1>
-<div className='skillContainer'>
+<div  display: grid;
+    grid-template-columns: repeat(5,200px);
+    justify-content: center;
+    gap:20px;>
  <div>
   <img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height:"20" margin-top:"10"/>
   <h3>HTML</h3>
