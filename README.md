@@ -35,8 +35,8 @@
 
  <h1>Connect with me:</h1>
  
-<img align="left" src='https://symbols.getvecta.com/stencil_64/30_github.f945e6f399.svg' alt='github' height='30'>(https://github.com/https://github.com/Himanshu5296)
-<img align="left" src='https://symbols.getvecta.com/stencil_87/40_linkedin-tile.553d9675b4.svg' alt='linkedin' height='30'>(https://www.linkedin.com/in/https://www.linkedin.com/in/himanshusingh52//)
+[<img align="left" src='https://symbols.getvecta.com/stencil_64/30_github.f945e6f399.svg' alt='github' height='30'>](https://github.com/https://github.com/Himanshu5296)
+[<img align="left" src='https://symbols.getvecta.com/stencil_87/40_linkedin-tile.553d9675b4.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/himanshusingh52//)
 
 <br/>
 <br/>
