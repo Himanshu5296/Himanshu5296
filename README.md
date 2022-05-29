@@ -1,4 +1,4 @@
-<img src="https://cdn.quotesgram.com/img/95/67/2073292838-design-dev-tuesday-700x350-3-700x350.jpg" alt="" height="300" width="846">
+<img src="https://cdn.quotesgram.com/img/95/67/2073292838-design-dev-tuesday-700x350-3-700x350.jpg" alt="" height="400" width="846">
 
 <br/>
  <h2>Hi 👋, I'm Himanshu Singh, currently learning Full Stack Web Development from Masai School</h2>
