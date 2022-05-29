@@ -9,11 +9,11 @@
 <h1>Skills</h1>
 <div className='skillContainer'>
  <div>
-  <img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height:"100" margin-top:"10"/>
+  <img src="https://gayathry-portfolio.vercel.app/html.png" alt="" height:"20" margin-top:"10"/>
   <h3>HTML</h3>
  </div>
   <div>
-  <img src="https://gayathry-portfolio.vercel.app/css.png" alt="" height:"100" margin-top:"10"/>
+  <img src="https://gayathry-portfolio.vercel.app/css.png" alt="" height:"20" margin-top:"10"/>
   <h3>CSS</h3>
  </div>
 </div>
