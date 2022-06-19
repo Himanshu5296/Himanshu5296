@@ -11,7 +11,7 @@
 
 🌱 2022 Goals : Contribute more on my skills  
 
-😎 Portfolio - <a href="https://portfolio-netlify.vercel.app/" target="_blank">visit</a>
+😎 Portfolio - <a href="https://himanshusingh.vercel.app/" target="_blank">visit</a>
 
 
 
