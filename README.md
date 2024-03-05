@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer with a creative edge, committed to buildin
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Others:** RESTful APIs, Git, AWS, Heroku, Firebase, Postman, 
+- **Others:** RESTful APIs, Git, AWS, Heroku, Firebase, Postman, Pipedream
 
 ## 🚀 What I Love Doing
 
@@ -19,6 +19,7 @@ I'm a passionate Full Stack Developer with a creative edge, committed to buildin
 ## 🌟 Projects
 - Websites: [YORE Care](https://yore.care/)
 - YORE Care App: Health-tech SUPER APP to Digitize, Preserve records & Empower the Care Seeker.
+  <br/>
   [Download on Android](https://play.google.com/store/apps/details?id=com.yorecareapp) | [Download on iOS](https://apps.apple.com/in/app/yore-care/id6451338874)
 
 Feel free to check out my [portfolio](https://himanshusingh.vercel.app/) for more projects and code samples!
