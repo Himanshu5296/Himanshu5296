@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Himanshu Singh
 
-I'm a passionate Full Stack Developer with a creative edge, committed to building robust and user-friendly web applications. My journey in the world of software development has been marked by constant learning, problem-solving, and a drive for excellence. With experience in both frontend and backend technologies, I bring a well-rounded skill set to every project I undertake.
+I'm a passionate Full Stack Developer with a creative edge, committed to building robust and user-friendly web applications. My journey in software development has been marked by constant learning, problem-solving, and a drive for excellence. With experience in both frontend and backend technologies, I bring a well-rounded skill set to every project I undertake.
 
 ## 💻 Technologies & Tools
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, MaterialUI, TailwindCSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Others:** RESTful APIs, Git, AWS, Heroku, Firebase, Postman, Pipedream
@@ -17,12 +17,14 @@ I'm a passionate Full Stack Developer with a creative edge, committed to buildin
 - Continuous learning and staying updated with the latest technologies and trends.
 
 ## 🌟 Projects
-- Websites: [YORE Care](https://yore.care/)
+- Websites:
+         - [YORE Care](https://yore.care/)
+         - [ADS India](https://adsindia.tech)
 - YORE Care App: Health-tech SUPER APP to Digitize, Preserve records & Empower the Care Seeker.
   <br/>
   [Download on Android](https://play.google.com/store/apps/details?id=com.yorecareapp) | [Download on iOS](https://apps.apple.com/in/app/yore-care/id6451338874)
 
-Feel free to check out my [portfolio](https://himanshusingh.vercel.app/) for more projects and code samples!
+Check out my [portfolio](https://himanshusingh.vercel.app/) for more projects and code samples!
 
 ## 📫 Let's Connect!
 
