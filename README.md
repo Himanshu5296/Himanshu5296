@@ -17,9 +17,7 @@ I'm a passionate Full Stack Developer with a creative edge, committed to buildin
 - Continuous learning and staying updated with the latest technologies and trends.
 
 ## 🌟 Projects
-- Websites:
-         - [YORE Care](https://yore.care/)
-         - [ADS India](https://adsindia.tech)
+- Websites: [YORE Care](https://yore.care/) & [ADS India](https://adsindia.tech)
 - YORE Care App: Health-tech SUPER APP to Digitize, Preserve records & Empower the Care Seeker.
   <br/>
   [Download on Android](https://play.google.com/store/apps/details?id=com.yorecareapp) | [Download on iOS](https://apps.apple.com/in/app/yore-care/id6451338874)
